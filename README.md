@@ -10,3 +10,6 @@ Following Packages need to be installed into the virtual Environment:
       conda install -n ML22  scikit-learn
 
       conda install -n ML22  matplotlib
+
+
+The folder Project2 contains a trained model, if you just want to load it. 
